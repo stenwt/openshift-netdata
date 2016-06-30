@@ -6,4 +6,4 @@ RUN git clone https://github.com/firehol/netdata.git --depth=1; cd netdata; ./ne
 
 CMD /usr/sbin/netdata
 
-EXPOSE 19999:8888
+EXPOSE 19999
